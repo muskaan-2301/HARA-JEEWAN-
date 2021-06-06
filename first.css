@@ -48,8 +48,9 @@ header{
 }
 .search{
     position: absolute;
+    left:1200px;
     top: 280px;
-    color:black;
+    color:white;
 }
 .lan{
     position: absolute;
